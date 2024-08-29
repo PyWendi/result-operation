@@ -1,5 +1,7 @@
 <script setup>
-
+defineOptions({
+	name: "StudentSpace"
+})
 </script>
 
 <template>
