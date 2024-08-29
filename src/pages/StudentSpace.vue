@@ -2,6 +2,11 @@
 defineOptions({
 	name: "StudentSpace"
 })
+
+
+import HeaderLayout from "../layouts/student/HeaderLayout.vue"
+import NavBarLayout from "../layouts/student/NavBarLayout.vue"
+import BodyLayout from "../layouts/student/BodyLayout.vue"
 </script>
 
 <template>
