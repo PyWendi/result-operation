@@ -4,6 +4,6 @@
 
 <template>
 	<div>
-		<p class="text-3xl text-cyan-300">hello world</p>
+		<p class="text-3xl text-cyan-300">Note branch</p>
 	</div>
 </template>
